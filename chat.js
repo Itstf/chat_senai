@@ -16,12 +16,12 @@ import { getDatabase, ref, set, push, remove, onValue } from "https://www.gstati
 
 var firebaseConfig = {
     // PEGAR INFO DO FIREBASE
-    apiKey: "AIzaSyDirBlAZcjVYnH1Vpw4wj4Ta63lXtIHhos",
+    apiKey: "",
     authDomain: "chat-b5fe3.firebaseapp.com",
     projectId: "chat-b5fe3",
     storageBucket: "chat-b5fe3.appspot.com",
-    messagingSenderId: "213307689641",
-    appId: "1:213307689641:web:713525f88b7cd580cfb7b8",
+    messagingSenderId: "",
+    appId: "",
     measurementId: "G-QSVK33381L"
 };
 
